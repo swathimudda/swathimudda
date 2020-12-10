@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Welcome to my github profile! My name is Swathi and I am a Full Stack Software Developer. 
+My skillset broadly includes Java, Scala, JavaScript, Python, R and associated frameworks.
+
