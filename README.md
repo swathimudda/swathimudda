@@ -16,5 +16,16 @@ Here are some ideas to get you started:
 -->
 
 Welcome to my github profile! My name is Swathi and I am a Full Stack Software Developer. 
-My skillset broadly includes Java, Scala, JavaScript, Python, R and associated frameworks.
+<br><br><br>
+Connect with me :point_down:
+<br><br>
+[<img src="https://simpleicons.org/icons/linkedin.svg" height="30" width="30">](https://www.linkedin.com/in/ssmudda/)
+[<img src="https://simpleicons.org/icons/facebook.svg" height="30" width="30">](https://www.facebook.com/ssmudda/)
+[<img src="https://simpleicons.org/icons/instagram.svg" height="30" width="30">](https://www.instagram.com/alotlikemudda/)
+
+
+
+
+
+
 
